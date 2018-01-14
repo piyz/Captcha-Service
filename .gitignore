@@ -1,0 +1,15 @@
+### IDE files
+.idea/
+*.iml
+.classpath
+
+### Package Files #
+*.jar
+*.war
+*.ear
+
+### Java template
+*.class
+
+### Maven template
+target/
